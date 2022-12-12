@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **WiChat**
 
-- 🌱 I’m currently learning **reactJs, React Native, PHP Laravel**
+- 🌱 I’m currently learning **reactJs, React Native, Laravel Blade**
 
-- 👯 I’m looking to collaborate on **eMakiry**
+- 👯 I’m looking to collaborate on **OuttheApp**
 
-- 🤝 I’m looking for help with **first-project**
+- 🤝 I’m looking for contribution with **Wichat**
 
 - 💬 Ask me about **Dart, Flutter, Python**
 
