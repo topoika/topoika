@@ -14,7 +14,7 @@
 - 📫 How to reach me **topoikatampul@gmail.com**
 
 - ⚡ Fun fact **I like coding to late nights 😎**
-
+- ![](https://komarev.com/ghpvc/?topoika&label=PROFILE+VIEWS)
 <p align="left">
 </p>
 
