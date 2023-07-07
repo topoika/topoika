@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Topoika David</h1>
 <h3 align="center">A passionate software more of front end but I am a full stact developer</h3>
 
-- 🔭 I’m currently working on **WiChat**
+- 🔭 I’m currently working on **Dogalgal**
 
 - 🌱 I’m currently learning **reactJs, React Native, Laravel Blade**
 
