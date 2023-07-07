@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Topoika David</h1>
 <h3 align="center">A passionate software more of front end but I am a full stact developer</h3>
 
-- 🔭 I’m currently working on **Dogalgal**
+- 🔭 I’m currently working on **Dogalgaz**
 
 - 🌱 I’m currently learning **reactJs, React Native, Laravel Blade**
 
 - 👯 I’m looking to collaborate on **OuttheApp**
 
-- 🤝 I’m looking for contribution with **Wichat**
+- 🤝 I’m looking for a contribution with **Lost & Found App**
 
 - 💬 Ask me about **Dart, Flutter, Python**
 
