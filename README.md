@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topoika&show_icons=true&locale=en" alt="topoika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topoika&" alt="topoika" /></p>
+
+<a href="https://wakatime.com/@293aaca3-c066-49e7-874d-8bcabbaddf76"><img src="https://wakatime.com/badge/user/293aaca3-c066-49e7-874d-8bcabbaddf76.svg" alt="Total time coded since Aug 29 2024" /></a>
